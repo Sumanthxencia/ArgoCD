@@ -1,0 +1,2 @@
+# ArgoCD
+To test ArgoCD
