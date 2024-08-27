@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: mycontainer
-        image: containerregistryaks1.azurecr.io/javaapplication:latest
+        image: acrfortest1.azurecr.io/test-app:v2
         ports:
         - containerPort: 80
 
